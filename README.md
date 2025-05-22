@@ -1,3 +1,3 @@
 # demo
-This is description.<br>
-Author - Raees Hashmi
+This is my first github repository.<br>
+Author - Raees Hashmi (UBIT)
